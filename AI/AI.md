@@ -24,7 +24,7 @@
     $ pip3 install --upgrade $TF_BINARY_URL
 
     $ python
-    import tensorflow as tf
+    >>> import tensorflow as tf
 
 ## OpenCV 
 
