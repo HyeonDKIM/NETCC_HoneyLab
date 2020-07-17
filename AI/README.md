@@ -28,7 +28,6 @@
 
 ## OpenCV 
 
-개빡셈 ㅅㅂ
 참고: https://jsh93.tistory.com/53
 
 #### 패키지 업데이트
